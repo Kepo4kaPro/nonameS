@@ -1,6 +1,6 @@
 # Интернет магазин NoName.
 Nuxt.js проект с приминением REST api.
-[http://kepo4kapro.herokuapp.com/](Просмтреть пример)
+[Просмотреть пример](http://kepo4kapro.herokuapp.com/)
 ## Прогресс
 - [ ] Задачи
    - [X] Каталоги
