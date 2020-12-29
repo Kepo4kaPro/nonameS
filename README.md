@@ -1,5 +1,5 @@
 # Интернет магазин NoName.
-Nuxt.js проект с приминением [REST api](https://github.com/Kepo4kaPro/RESTApiNoN).
+### Nuxt.js проект с приминением [REST api](https://github.com/Kepo4kaPro/RESTApiNoN).
 [Просмотреть пример](http://kepo4kapro.herokuapp.com/)
 ## Прогресс
 - [ ] Задачи
