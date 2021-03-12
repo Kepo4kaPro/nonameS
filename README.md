@@ -1,6 +1,6 @@
 # Интернет магазин NoName.
 ### Nuxt.js проект с использованием [REST API](https://github.com/Kepo4kaPro/RESTApiNoN).
-##[Просмотреть пример](http://kepo4kapro.herokuapp.com/)
+##[Просмотреть пример](http://kepo4ka.herokuapp.com/)
 ![Каталог](https://raw.githubusercontent.com/Kepo4kaPro/nonameS/main/skreensot_0.jpg)
 ![Размерная сетка](https://raw.githubusercontent.com/Kepo4kaPro/nonameS/main/skreensot_1.jpg)
 ![Продукт](https://raw.githubusercontent.com/Kepo4kaPro/nonameS/main/skreensot_2.jpg)
